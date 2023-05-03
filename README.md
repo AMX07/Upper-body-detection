@@ -2,6 +2,7 @@
 
 This repository contains the implementation of an upper body detection algorithm using the Haar Cascade Classifier in OpenCV. The primary purpose of this project is to detect the upper body of a person in images or real-time video streams, such as webcams or CCTV footage.
 
+Demo video: https://youtu.be/XONX54UmHIM
 ## Prerequisites
 
 Before you can run the code, make sure you have the following dependencies installed:
