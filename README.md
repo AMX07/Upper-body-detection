@@ -14,3 +14,17 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install opencv-python numpy
+
+## Usage
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/AMX07/Upper-body-detection.git
+cd Upper-body-detection
+python all.py
+
+
+By default, the script will use your computer's webcam as the video source. If you want to use a different video source, you can modify the video_capture = cv2.VideoCapture(0) line in the all.py file, replacing 0 with the index of your desired video source.
+
+To exit the program, press the q key while the video window is in focus.
