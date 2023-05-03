@@ -26,7 +26,7 @@ git clone https://github.com/AMX07/Upper-body-detection.git
 Navigate to the project folder:
 ```bash
 cd Upper-body-detection
-
+```
 
 Run the all.py script:
 ```bash
